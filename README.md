@@ -62,3 +62,11 @@ The analysis of the election show that:
 
 ## Challenge Summary
   - So lets take a look at some of the code that we added for this challenge, specifically the parts that took a more specific look at the data that was provided. Starting with the county percentages, you can see that we simply took the votes from the specific county that we are looping through, divided that by the total amount of votes from all the counties combined, and then multiplied that by 100 to convert it to a percentage (1a). This can easily be transferable to another project in all states and any county, just depends on the list that you are importing for the project. The next part was finding the percentage of the total votes that each candidate got. For this I did exactly the same kind of formula that I did for the county votes and their percentages (1b).
+  
+  
+  ## Pictures of Code
+  
+  - 1a: ![county votes](https://user-images.githubusercontent.com/75768098/104129720-fb07e180-5332-11eb-8c36-a73c0fa18eeb.png)
+
+
+  - 1b: ![candidate percentages](https://user-images.githubusercontent.com/75768098/104129738-1c68cd80-5333-11eb-887e-9820e8944fd3.png)
